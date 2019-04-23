@@ -1,9 +1,9 @@
 # webpack-react
 configure webpack, babel and React
 
-install and configure webpack
-install and configure Babel
-install React
-create two React components with the Container / Presentational principle
-include the resulting bundle into an HTML page
-install and configure webpack dev server
+1. install and configure webpack
+2. install and configure Babel
+3. install React
+4. create two React components with the Container / Presentational principle
+5. include the resulting bundle into an HTML page
+6. install and configure webpack dev server
